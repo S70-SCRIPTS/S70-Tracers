@@ -19,7 +19,7 @@ FiveM script that adds synchronized bullet tracers using customizable particle e
 - Inside the repository, there is a `tracer-colors` folder containing different color variations.  
 - Each color has its own `core.ypt` file.  
 - To use a different color:  
-  1. Open the desired color folder (e.g., `red/`).  
+  1. Open the desired color folder (e.g., `cyan/`).  
   2. Copy the `core.ypt` file.  
   3. Paste it into the `S70-Tracer` folder (replace the existing `core.ypt`).  
 
