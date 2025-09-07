@@ -1,6 +1,6 @@
 # 🔫 S70 Tracers
 
-A lightweight FiveM script that adds synchronized bullet tracers using customizable particle effects.
+FiveM script that adds synchronized bullet tracers using customizable particle effects.
 
 ## ✨ Features
 - Real-time bullet tracer effects.  
@@ -23,3 +23,7 @@ A lightweight FiveM script that adds synchronized bullet tracers using customiza
 1. Download or clone this repository.  
 2. Place `s70_tracers` into your server’s `resources` folder.  
 3. Add this line to your `server.cfg`:  
+
+## ℹ️ Preview
+<img width="819" height="439" alt="tracer" src="https://github.com/user-attachments/assets/caa29878-0b95-4f43-981d-db5d50928ec5" />
+
